@@ -13,6 +13,16 @@ opacity: 1;
     color: red;
 }
 
+#navbar2 {height: 80px;
+
+}
+
+.logo-image{
+    width: 75px;
+    height: 75px;
+    margin-left: 20px;
+}
+
 .title {top: 73px;
     left: 469px;
     width: 300px;

@@ -18,22 +18,27 @@ opacity: 1;
 
 }
 
-
-
 #navbar-title {
     font-weight: 400;
     font-size: xx-large;
  
 }
+     
+.cardrow {
+   display: flex;
+   flex-wrap: wrap;
 
-.calendar{
+ 
+}
+
+.calendar {
     margin-left: 750px;
     top: 200px;
     position: absolute;
 
 }
 
-.logo-image{
+.logo-image {
     width: 75px;
     height: 75px;
     margin-left: 250px;

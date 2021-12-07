@@ -91,3 +91,12 @@ opacity: 1;
     padding-bottom: 10px;
 
 }
+
+.navbar-nav {
+    padding-left: 30rem;
+    
+}
+
+#navbarDropdown{
+    color: white
+}

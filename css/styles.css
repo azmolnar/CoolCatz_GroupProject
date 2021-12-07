@@ -13,20 +13,36 @@ opacity: 1;
     color: red;
 }
 
-#navbar2 {height: 80px;
+#navbar2 {
+    height: 80px;
+
+}
+
+
+
+#navbar-title {
+    font-weight: 400;
+    font-size: xx-large;
+ 
+}
+
+.calendar{
+    margin-left: 750px;
+    top: 200px;
+    position: absolute;
 
 }
 
 .logo-image{
     width: 75px;
     height: 75px;
-    margin-left: 20px;
+    margin-left: 250px;
 }
 
-.title {top: 73px;
+.title {top: 70px;
     left: 469px;
     width: 300px;
-    height: 68px;
+    height: 80px;
     /* UI Properties */
     color: var(--unnamed-color-000000);
     text-align: left;
@@ -39,6 +55,7 @@ opacity: 1;
 .herobg {
     background-image: url(/images/jonas-geschke-C8wjnVxmVUI-unsplash.jpg);
     background-size: cover;
+    height: 700px;
 }
 
 .herotext {
@@ -48,7 +65,17 @@ opacity: 1;
     margin-top: 5rem;
 }
 
-.hero {padding-bottom: 15rem;}
+.quotetext{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 5rem;
+}
+
+.hero {padding-bottom: 15rem;
+    margin-bottom: 400px;
+
+}
 
 .card-custom-text { 
     text-align: center;
